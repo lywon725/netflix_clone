@@ -8,8 +8,8 @@ export default function Nav() {
     const navigate = useNavigate();
 
     const handleChange = (e) => {
-        setsearchValue(e.target.value);
-        navigate(`/search?q=&{e.target.value}`);
+        setsearchValue(e.target.value); //바로 검색가능하다. 
+        navigate(`/search?q=${e.target.value}`)
     };
 
     useEffect(() => {

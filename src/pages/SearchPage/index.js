@@ -67,5 +67,5 @@ export default function SearchPage() {
         );
     };
 
-    return renderSearchResults();
+    return renderSearchResults(); 
 }
