@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lywon725/netflix_clone.git/static/css/main.7ac21bbc.css",
+    "main.js": "/lywon725/netflix_clone.git/static/js/main.ebd881da.js",
+    "index.html": "/lywon725/netflix_clone.git/index.html",
+    "main.7ac21bbc.css.map": "/lywon725/netflix_clone.git/static/css/main.7ac21bbc.css.map",
+    "main.ebd881da.js.map": "/lywon725/netflix_clone.git/static/js/main.ebd881da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac21bbc.css",
+    "static/js/main.ebd881da.js"
+  ]
+}
